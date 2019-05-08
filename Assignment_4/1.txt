@@ -1,0 +1,6 @@
+[CompositeProduct [name=ceafa cu cartofi price=18]
+, BaseProduct [name=ciorba de vacuta price=10]
+]
+ Comanda din data de: 2019/05/04 15:09:59
+ Masa:1
+ Total de plata:28

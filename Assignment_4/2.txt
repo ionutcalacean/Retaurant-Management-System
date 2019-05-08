@@ -1,0 +1,6 @@
+[BaseProduct [name=ciorba noua price=15]
+, CompositeProduct [name=d price=33]
+]
+ Comanda din data de: 2019/05/08 15:01:49
+ Masa:2
+ Total de plata:48
